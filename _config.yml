@@ -5,5 +5,4 @@ author:
 remote_theme: "jekyll/minima@1e8a445"
 minima: 
   skin: solarized-dark
-
-hide_site_feed_link: true
+  hide_site_feed_link: true
